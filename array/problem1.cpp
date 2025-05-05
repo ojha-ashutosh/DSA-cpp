@@ -18,7 +18,7 @@
 
 #include <iostream>
 #include <vector>
-#include <algorithm> // For is_sorted
+#include <algorithm>
 using namespace std;
 
 class Solution {

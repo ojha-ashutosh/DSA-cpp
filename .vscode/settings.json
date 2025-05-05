@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
